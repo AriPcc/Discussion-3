@@ -1,7 +1,7 @@
 /******************************************************************************
 # Author:           Ari Pollack and Xavier Braker
 # Assignment:       Discussion 3
-# Date:             April 17, 2025
+# Date:             April 20, 2025
 # Description:      This program will prompt the user for a number of cents, 
                     and then return the configuration of change that adds up 
                     to it using the fewest possible coins.
